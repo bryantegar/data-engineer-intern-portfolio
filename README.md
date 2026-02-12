@@ -1,4 +1,4 @@
-# Data Engineer Intern Portfolio – PT Alto Network Preparation
+# Data Engineer Intern Portfolio
 
 ## Overview
 This repository contains hands-on data engineering projects focusing on:
